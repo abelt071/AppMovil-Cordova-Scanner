@@ -1,0 +1,66 @@
+#capturar{
+  font-size: 34px;
+  padding: 5px;
+  margin-bottom: 15px;  
+ }
+
+.fecha{
+  font-size: 10px;
+  font-family: sans-serif;
+  color: chocolate;
+}
+
+
+#area_qr{  
+  font-size:120px;   
+  height: 150px;    
+  text-align: center;    
+  padding-left: 5%;    
+  width: 95%;  
+}
+
+
+.qr_valido{    
+  color: forestgreen;        
+}
+
+.qr_invalido{    
+  color: crimson;      
+}
+
+.centro{
+   width: 100%;
+   text-align: center;    
+}
+
+
+#span_icon_msgqr{
+ font-size: 50px; 
+}
+
+#span_msgr{
+  font-size: 14px;  
+}
+
+#div_mensaje_qr{
+  display: none;
+  padding-top: 25px;    
+  text-align: center;
+}
+
+#div_opciones_ver{
+   display: none;
+   padding-top: 25px;    
+   font-size: 12px;         
+}
+
+#qrHistorial{
+   padding-top: 40px;
+}
+
+#t_historico{     
+   font-size: 15px;
+   color: #FFFFFF;    
+   width: 100%; 
+   text-align: center;    
+}
