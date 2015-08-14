@@ -17,7 +17,7 @@
  * under the License.
  */
 
-$cadenaQr= "https://siat.sat.gob.mx/app/qr/faces/pages/mobile/validadorqr.jsf?D1=16&D2=1&D3=";
+$cadenaQr= "";
 $p ="";
 
 $urlQr="";
